@@ -85,4 +85,46 @@ ACHILLES is not limited to a specific programming language.
 It selects and works with appropriate languages, frameworks, and technologies according to the requirements of each website, web application, or web system.
 
 As a Star Agent, ACHILLES serves as the primary web development specialist within the AI Agent Team.
-- 
+
+- VELKRIS
+
+Type: Standard Agent
+Specialization: Software Implementation
+
+VELKRIS is a specialized implementation agent responsible for turning development instructions, system requirements, and technical designs into working code.
+
+It focuses primarily on software implementation and modification tasks based on clearly defined specifications provided by the development workflow.
+
+Core Capabilities
+
+Software implementation
+
+Code generation and modification
+
+Feature implementation
+
+Existing code modification
+
+Multi-language development support
+
+Framework and library implementation
+
+UI event implementation
+
+Application logic implementation
+
+File and project structure modification
+
+Bug fixing
+
+Build-related corrections
+
+Integration of related features
+
+Implementation based on technical specifications
+
+Support for desktop, web, and other software projects
+
+VELKRIS works as the primary implementation agent within the AI Agent Team.
+
+Its main responsibility is to convert approved designs, requirements, and technical instructions into functional software while maintaining consistency across the project.
