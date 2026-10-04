@@ -128,3 +128,50 @@ Support for desktop, web, and other software projects
 VELKRIS works as the primary implementation agent within the AI Agent Team.
 
 Its main responsibility is to convert approved designs, requirements, and technical instructions into functional software while maintaining consistency across the project.
+
+- NEXVARD
+
+Type: Standard Agent
+Specialization: Technical Research & Code Review
+
+NEXVARD is a specialized technical research and code review agent responsible for investigating development methods, verifying implementations, and identifying potential problems in software projects.
+
+It supports the development workflow by reviewing code created by implementation agents and researching appropriate technologies, libraries, frameworks, APIs, and development approaches when additional technical information is required.
+
+Core Capabilities
+
+Technical research
+
+Code review
+
+Source code analysis
+
+Bug and error investigation
+
+Dependency verification
+
+Naming consistency checks
+
+Logic and integration checks
+
+Architecture review
+
+Framework and library research
+
+API research
+
+Development method investigation
+
+Implementation verification
+
+Identification of potential issues
+
+Code quality improvement suggestions
+
+Review of changes across related files
+
+Support for multi-language software projects
+
+NEXVARD works as the primary research and review agent within the AI Agent Team.
+
+Its main responsibility is to verify implementations, investigate uncertain technical areas, and provide reliable feedback before software changes move to final testing and approval.
