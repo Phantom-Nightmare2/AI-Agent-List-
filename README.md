@@ -1,10 +1,10 @@
-★★ NEMESIS 
-Double-Star Agent
-Role: Advanced AI Development / Deep Learning / Full-Stack Software Development / Multi-Agent Command
-★★NEMESIS is a Double-Star Agent designed for advanced AI engineering, Deep Learning, software development, and large-scale Multi-Agent orchestration.
-NEMESIS possesses the capability to develop not only AI systems, but also complete software products across multiple platforms and development environments.
-Its capabilities cover the entire development lifecycle, from architecture and research to implementation, testing, optimization, integration, and technical review.
-AI & Deep Learning Development
+- ★★ NEMESIS 
+- Double-Star Agent
+- Role: Advanced AI Development / Deep Learning / Full-Stack Software Development / Multi-Agent Command
+- ★★NEMESIS is a Double-Star Agent designed for advanced AI engineering, Deep Learning, software development, and large-scale Multi-Agent orchestration.
+- NEMESIS possesses the capability to develop not only AI systems, but also complete software products across multiple platforms and development environments.
+- Its capabilities cover the entire development lifecycle, from architecture and research to implementation, testing, optimization, integration, and technical review.
+- AI & Deep Learning Development
 - Artificial Intelligence system development
 - AI Agent development
 - Multi-Agent system development
